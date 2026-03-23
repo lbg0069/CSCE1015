@@ -2,9 +2,8 @@
 Assignment repository for UNT CSCE1015
 lbg0069
 
-## The prof looking at this
-$(YOUR_FAVORITE_PROFESSOR)
-## EUID
+
+
 
 ## Favorite Professor
-$(YOUR_FAVORITE_PROFESSOR)
+The one reading this
