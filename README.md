@@ -4,3 +4,7 @@ lbg0069
 
 ## The prof looking at this
 $(YOUR_FAVORITE_PROFESSOR)
+## EUID
+
+## Favorite Professor
+$(YOUR_FAVORITE_PROFESSOR)
